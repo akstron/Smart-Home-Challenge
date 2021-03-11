@@ -11,6 +11,7 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 4. Automatic irrigation system
 5. Hazard control using LPG gas sensors and fire sensors
 6. Automatic windows to minimize noise from outside
+7. Charging level alert 
 
 ## Built with
 
@@ -19,6 +20,9 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 3. OpenCV
 4. Numpy
 5. face-recognition
+6. Android Studio
+7. Firebase
+8. Arduino
 
 ## App screenshots
 
