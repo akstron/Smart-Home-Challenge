@@ -13,7 +13,8 @@ The project aims to build a fully functional smart home with a lot of automatic 
 
 ## Built with
 
-1. PyAudio
-2. OpenCV
-3. Numpy
-4. face-recognition
+1. Node mcu
+2. PyAudio
+3. OpenCV
+4. Numpy
+5. face-recognition
