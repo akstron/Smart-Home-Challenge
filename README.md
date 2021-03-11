@@ -19,3 +19,9 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 3. OpenCV
 4. Numpy
 5. face-recognition
+
+## App screenshots
+
+1. Login Screen
+[!alt login screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/j.jpg)
+
