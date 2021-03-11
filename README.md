@@ -22,10 +22,10 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 
 ## App screenshots
 
-#### Login Screen
-![login screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/j.jpg)
 #### Model Screen
 ![Model screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/model3.jpg)
+#### Login Screen
+![login screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/j.jpg)
 #### Home Screen
 ![Home Screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/d.jpg)
 #### Kitchen page
