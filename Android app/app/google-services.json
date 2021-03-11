@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252141477484",
+    "firebase_url": "https://leds-309cc.firebaseio.com",
+    "project_id": "leds-309cc",
+    "storage_bucket": "leds-309cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252141477484:android:63a8a81f99c6cbd9fb8249",
+        "android_client_info": {
+          "package_name": "com.example.led_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252141477484-m0d4fplp6cbtqcjcdiqoctou1hehbrmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.led_control",
+            "certificate_hash": "a57228d4f95f77dd51e7f107232102841a584442"
+          }
+        },
+        {
+          "client_id": "252141477484-1887dpglag3aclm4rcd7qtsuirqo5slb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsZOLc08IByWWzJq8afeRoEMtYxdeRl5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252141477484-1887dpglag3aclm4rcd7qtsuirqo5slb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
