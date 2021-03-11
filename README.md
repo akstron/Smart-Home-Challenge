@@ -24,4 +24,20 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 
 #### Login Screen
 ![login screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/j.jpg)
+#### Home Screen
+![Home Screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/d.jpg)
+#### Kitchen page
+![Kithcen screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/a.jpg)
+#### Voice Control Screen 
+##### we can control any thing using our voice (like trun on the light, turn off the light, etc.)
+![Voice Control](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/b.jpg)
+#### Charging and earthquake screen
+##### Basically we can set the charging level which we want to set for upper limit and when it reach to this limit it wiil give notification and an alert sound for removing charging and earthquake sensor will help to give alert if there is an earthquake
+![charging screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/e.jpg)
+#### Living screen
+![Living Screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/g.jpg)
+
+
+
+
 
