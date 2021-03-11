@@ -1,6 +1,7 @@
 # Smart Home Challenge
 
 The project aims to build a fully functional smart home with a lot of automatic features.
+The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 
 ## Key features
 
