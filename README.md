@@ -35,7 +35,7 @@ The project was demonstrated at Prosang 2.0 (2020) and got 1st place
 ![Voice Control](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/b.jpg)
 #### Charging and earthquake screen
 ##### Basically we can set the charging level which we want to set for upper limit and when it reach to this limit it wiil give notification and an alert sound for removing charging and earthquake sensor will help to give alert if there is an earthquake.
-![charging screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/e.jpg)
+![charging screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/charging%20(1).jpg)
 Earthquake screen
 ![Earthquake screen](https://github.com/akstron/Smart-Home-Challenge/blob/main/Images/k.jpg)
 #### Living screen
